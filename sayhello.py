@@ -11,7 +11,7 @@ class SayHello(Process):
         super(SayHello, self).__init__(
             self._handler,
             identifier='say_hello',
-            title='Process Say Hello',
+            title='Process Say Hello 1231232',
             abstract='Returns a literal string output\
              with Hello plus the inputed name',
             version='1.3.3.7',
